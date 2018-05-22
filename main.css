@@ -9,6 +9,7 @@
 .section {
     line-height: 1.1em;
     font-style: italic;
+    font-size: 20px;
 }
 .Candidate-image {
     width: 40%;
